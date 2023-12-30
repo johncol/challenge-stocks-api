@@ -1,4 +1,6 @@
-# Stock Dummy API poc
+# Stocks API
+
+Dummy API written in Go to get stock values as part of the interview process for Twilio Colombia.
 
 Run with
 
